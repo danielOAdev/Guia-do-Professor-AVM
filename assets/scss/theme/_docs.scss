@@ -293,24 +293,18 @@
 		margin-bottom: 1rem;
 		color: $theme-text-color-primary
 	}
-	h2 {
-	color: darken($theme-text-color-secondary, 10%);
-	}
+
 	h3 {
 		font-size: 1.5rem;
-		color: darken($theme-text-color-secondary, 10%);
 	}
 	h4 {
 		font-size: 1.25rem;
-		color: darken($theme-text-color-secondary, 10%);
 	}
 	h5 {
 		font-size: 1rem;
-		color: darken($theme-text-color-secondary, 10%);
 	}
 	h6 {
 		font-size: 0.875rem;
-		color: darken($theme-text-color-secondary, 10%);
 	}
 	ul, ol, dl {
 		padding-left: 1.5rem;
